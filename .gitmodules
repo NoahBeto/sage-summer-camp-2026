@@ -1,3 +1,6 @@
 [submodule "sage-bat-counter"]
 	path = sage-bat-counter
 	url = https://github.com/NoahBeto/mobile-bat-counter.git
+[submodule "app-tutorial"]
+	path = app-tutorial
+	url = https://github.com/NoahBeto/app-tutorial.git
