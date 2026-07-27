@@ -10,6 +10,8 @@ Our project explores how an existing bat detection and tracking pipeline can be 
 
 The original pipeline, developed by Sarah Lagattuta, uses a pretrained YOLOv11 model together with the SORT tracking algorithm to detect, track, and count bats in thermal video. Our goal was to package this workflow for deployment on SAGE hardware while preserving the original detection and tracking capabilities.
 
+![Thermal video of bats](images/Screen%20Shot%202026-07-27%20at%202.27.00%20PM.png)
+
 ## Project Goals
 
 Our objectives for the project were to:
@@ -28,9 +30,13 @@ We containerized the application, updated it to accept live camera input in addi
 
 Throughout the project, we repeatedly tested the application on SAGE Grande hardware, debugging deployment issues and verifying that the original bat detection and tracking pipeline continued to function correctly after being moved to the edge.
 
+![Original inference pipeline with Sage plugin wrapper](images/sage-bat-counter-flowchart.jpg)
+
 ## Current Status
 
 By the end of the project, the bat-counting pipeline successfully runs on SAGE Grande inside a container while supporting both prerecorded videos and live camera input. The project demonstrates that an existing computer vision workflow can be adapted for edge deployment without requiring major changes to the underlying detection and tracking algorithms.
+
+![Resulting data from test video on a Sage node](images/Screen%20Shot%202026-07-27%20at%202.29.25%20PM.png)
 
 ## Future Work
 
