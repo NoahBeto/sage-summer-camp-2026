@@ -35,10 +35,10 @@ The project explored:
 - Processing thermal video data on SAGE nodes
 - Creating a pipeline for real-time bat counting
 
-## Hermes Brain Export
+### Hermes Brain Export
 
-As part of SAGE Summer Camp, I developed a Hermes agent containing skills, memories, documentation, and configuration created throughout the week.
+As part of SAGE Summer Camp, I developed a Hermes agent containing the skills, memories, documentation, and configuration created throughout the week.
 
-The exported Hermes brain exceeded GitHub's file size limits (including Git LFS), so it is available through Google Drive instead.
+A smaller export of the Hermes brain is included in this repository for easy access. The complete export exceeded GitHub's file size limits (including Git LFS), so the full version is available through Google Drive.
 
-Google Drive download: https://drive.google.com/drive/folders/1c82Y9SkWE93GL6pDm_R3P5h68M18sEav?usp=sharing
+Full Hermes brain (Google Drive): https://drive.google.com/drive/folders/1c82Y9SkWE93GL6pDm_R3P5h68M18sEav?usp=sharing
