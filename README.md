@@ -34,3 +34,11 @@ The project explored:
 - Running YOLOv11 object detection with SORT tracking
 - Processing thermal video data on SAGE nodes
 - Creating a pipeline for real-time bat counting
+
+## Hermes Brain Export
+
+As part of SAGE Summer Camp, I developed a Hermes agent containing skills, memories, documentation, and configuration created throughout the week.
+
+The exported Hermes brain exceeded GitHub's file size limits (including Git LFS), so it is available through Google Drive instead.
+
+Google Drive download: https://drive.google.com/drive/folders/1c82Y9SkWE93GL6pDm_R3P5h68M18sEav?usp=sharing
