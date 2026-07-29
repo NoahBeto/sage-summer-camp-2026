@@ -48,4 +48,4 @@ This project gave us experience deploying AI applications on edge hardware inste
 
 ## References
 
-1. Sarah Lagattuta. *Bat Counting with YOLOv11-SORT*. GitHub repository. Available at: :contentReference[oaicite:0]{index=0}
+1. Sarah Lagattuta. *Bat Counting with YOLOv11-SORT*. GitHub repository. Available at: [https://github.com/Sarah-Lagattuta/Bat-Counting-YOLOv11-SORT](https://github.com/Sarah-Lagattuta/Bat-Counting-YOLOv11-SORT)
